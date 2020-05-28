@@ -1,13 +1,13 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/aatoz</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<name>Website</name>
+			<url>https://0x77.page/</url>
+			<iconclass>fa fa-site</iconclass>
 		</link>
 		<link>
-			<name>I want this depiction template</name>
-			<url>https://github.com/supermamon/aatoz/</url>
+			<name>Github</name>
+			<url>https://github.com/0x77dev/iosrepo</url>
 			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>
 	</footerlinks>
